@@ -1,0 +1,7 @@
+- [x] Create index.html with quiz structure
+- [x] Create style.css for styling
+- [x] Create script.js with questions array (sample 4, full 40 needed), shuffle logic, quiz flow, score, detailed dashboard
+- Test locally
+- Push to GitHub
+- Deploy to Vercel
+- Provide link
